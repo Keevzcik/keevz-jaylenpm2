@@ -4,4 +4,3 @@ __Selam Beyler__
 
 birkaç yerinde oynama yaptım düzenledim göze hoş dursun diye leaderboard kısmı ve giriş çıkıştaki invite logger kısmını sadece mod altyapısı bu guard vb yok içerisinde pm2 çalıştırmayı bilmeyen arkadaşlar rahatlıkla kullanabilir glitch heroku vb gibi yerlerdede çalışmaktadır
 
-Kesinlikle Sizleri Discord Sunucuma Bekliyorum Altyapılar m3th4tlar !fş4lar herşey bulunuyor sunucumuzda : https://discord.gg/HBuvFtAXBw

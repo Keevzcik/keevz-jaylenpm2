@@ -1,0 +1,38 @@
+{
+  "name": "keevz",
+  "version": "1.0.0",
+  "description": "ananı sikim hayat",
+  "main": "keevz.js",
+  "scripts": {
+    "start": "node keevz.js"
+  },
+  "keywords": [],
+  "author": "keevz",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/voice": "^0.8.0",
+    "ark.db": "^2.7.1",
+    "axios": "^0.26.1",
+    "canvas": "^2.9.1",
+    "canvas-constructor": "^5.0.2",
+    "chart.js": "^3.7.1",
+    "chartjs-node-canvas": "^4.1.6",
+    "common-tags": "^1.8.2",
+    "cron": "^1.8.2",
+    "discord-api-types": "^0.25.0",
+    "discord-logs": "^2.0.1",
+    "discord-modals": "^1.2.2",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.3",
+    "humanize-duration": "^3.27.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.3.3",
+    "ms": "^2.1.3",
+    "request": "^2.88.2",
+    "string-table": "^0.1.5",
+    "table": "^6.8.0"
+  }
+}
